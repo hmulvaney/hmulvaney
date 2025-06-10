@@ -6,6 +6,9 @@
 
 I’m a product leader with roots in Mechanical Engineering and hardware systems, currently focused on driving scalable, reliable cloud infrastructure and emerging AI products. Most recently, I was at Microsoft Azure Core, where I led GPU fleet initiatives for top-tier customers like OpenAI — optimizing cost, performance, and orchestration across global data centers.
 
+---
+
+
 💻 **Tech Stack**
 
 **Cloud & Infrastructure**  
@@ -22,6 +25,9 @@ OpenAI API | Azure ML | Model deployment & scaling
 
 **Frameworks & Tools**  
 Jira | Figma | Git | VSCode | Power BI | Confluence | Notion   
+
+---
+
 
 ⚙️ My experience spans:
 - Building and scaling cloud infrastructure
