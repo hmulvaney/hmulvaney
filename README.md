@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hannah
 
-🎯 **Technical Product Manager | Builder | Ex-Microsoft | Cloud & AI Infrastructure Enthusiast**
+🎯 **Technical Product Manager | Builder | Microsoft | Cloud & AI Infrastructure Enthusiast**
 
 I’m a product leader with roots in Mechanical Engineering and hardware systems, currently focused on driving scalable, reliable cloud infrastructure and emerging AI products. Most recently, I was at Microsoft Azure Core, where I led GPU fleet initiatives for top-tier customers like OpenAI — optimizing cost, performance, and orchestration across global data centers.
 
