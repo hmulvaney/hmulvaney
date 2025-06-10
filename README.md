@@ -6,6 +6,26 @@
 
 I’m a product leader with roots in Mechanical Engineering and hardware systems, currently focused on driving scalable, reliable cloud infrastructure and emerging AI products. Most recently, I was at Microsoft Azure Core, where I led GPU fleet initiatives for top-tier customers like OpenAI — optimizing cost, performance, and orchestration across global data centers.
 
+💻 **Tech Stack**
+
+**Cloud & Infrastructure**  
+Azure ☁️ | Kubernetes | Docker | Terraform | Prometheus | Grafana | Datadog | GPU Orchestration | Linux  
+
+**Data Processing & ETL**  
+Apache Airflow | Azure Data Factory | dbt | Kafka | Spark  
+
+**Databases & Storage**  
+PostgreSQL | Azure Blob Storage | Cosmos DB | Snowflake | Redis  
+
+**Programming & Languages**  
+Python 🐍 | SQL | Bash | C++ (past life in hardware)  
+
+**AI & Machine Learning**  
+OpenAI API | Azure ML | Hugging Face | Model deployment & scaling  
+
+**Frameworks & Tools**  
+Jira | Figma | Git | VSCode | Power BI | Confluence | Notion | Looker  
+
 ⚙️ My experience spans:
 - Building and scaling cloud infrastructure
 - Hardware–software integration
