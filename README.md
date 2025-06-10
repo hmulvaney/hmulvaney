@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**hmulvaney/hmulvaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hannah
 
-Here are some ideas to get you started:
+🎯 **Technical Product Manager | Builder | Ex-Microsoft | Cloud & AI Infrastructure Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a product leader with roots in Mechanical Engineering and hardware systems, currently focused on driving scalable, reliable cloud infrastructure and emerging AI products. Most recently, I was at Microsoft Azure Core, where I led GPU fleet initiatives for top-tier customers like OpenAI — optimizing cost, performance, and orchestration across global data centers.
+
+⚙️ My experience spans:
+- Building and scaling cloud infrastructure
+- Hardware–software integration
+- Launching internal tools & MVPs from 0 → 1
+- Mentoring aspiring engineers and PMs
+- Championing reliability, performance, and impact
+
+🌱 **What I'm excited about:**
+- Empowering teams to build **resilient systems**
+- Co-founding or joining a **mission-driven startup**
+- Trading, decision systems, and **algorithmic thinking**
+- Designing products that make life easier, healthier, and more meaningful
+
+📚 Outside of work, you’ll find me teaching high-intensity fitness classes (F45!), training for races, reading non-fiction, volunteering, and exploring new communities 
+
+---
+
+💌 Always happy to chat about tech, startups, product careers, or life pivots — feel free to connect!
+
