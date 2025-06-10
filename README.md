@@ -9,22 +9,19 @@ I’m a product leader with roots in Mechanical Engineering and hardware systems
 💻 **Tech Stack**
 
 **Cloud & Infrastructure**  
-Azure ☁️ | Kubernetes | Docker | Terraform | Prometheus | Grafana | Datadog | GPU Orchestration | Linux  
-
-**Data Processing & ETL**  
-Apache Airflow | Azure Data Factory | dbt | Kafka | Spark  
+Azure ☁️ | Datadog | GPU Orchestration   
 
 **Databases & Storage**  
-PostgreSQL | Azure Blob Storage | Cosmos DB | Snowflake | Redis  
+PostgreSQL | Azure Blob Storage | Cosmos DB | Snowflake   
 
 **Programming & Languages**  
-Python 🐍 | SQL | Bash | C++ (past life in hardware)  
+Python 🐍 | SQL | C++  
 
 **AI & Machine Learning**  
-OpenAI API | Azure ML | Hugging Face | Model deployment & scaling  
+OpenAI API | Azure ML | Model deployment & scaling  
 
 **Frameworks & Tools**  
-Jira | Figma | Git | VSCode | Power BI | Confluence | Notion | Looker  
+Jira | Figma | Git | VSCode | Power BI | Confluence | Notion   
 
 ⚙️ My experience spans:
 - Building and scaling cloud infrastructure
