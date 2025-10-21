@@ -36,7 +36,7 @@ Jira | Figma | Git | VSCode | Power BI | Confluence | Notion
 - Mentoring aspiring engineers and PMs
 - Championing reliability, performance, and impact
 
-- Trading, decision systems, and **algorithmic thinking**
+- Trading, decision systems, and algorithmic thinking
 - Designing products that make life easier, healthier, and more meaningful
 
 📚 Outside of work, you’ll find me teaching high-intensity fitness classes (F45!), training for races, reading non-fiction, volunteering, and exploring new communities 
